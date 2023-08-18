@@ -1,7 +1,7 @@
 [tool.kedro]
 package_name = "kedro_ipython"
 project_name = "kedro_ipython"
-project_version = "0.18.4"
+kedro_init_version = "0.18.10"
 
 [tool.isort]
 profile = "black"

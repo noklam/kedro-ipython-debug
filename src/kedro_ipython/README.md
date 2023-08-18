@@ -1,6 +1,6 @@
 # Pipeline
 
-> *Note:* This is a `README.md` boilerplate generated using `Kedro 0.18.4`.
+> *Note:* This is a `README.md` boilerplate generated using `Kedro 0.18.10`.
 
 ## Overview
 

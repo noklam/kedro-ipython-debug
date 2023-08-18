@@ -1,6 +1,6 @@
 """
 This is a boilerplate pipeline
-generated using Kedro 0.18.4
+generated using Kedro 0.18.10
 """
 
 from kedro.pipeline import Pipeline, node, pipeline
